@@ -2,7 +2,7 @@
   "author": "Timo Derstappen <teemow@gmail.com> (http://teemow.com)",
   "name": "dawanda",
   "description": "An API client for dawanda",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/teemow/node-dawanda",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "main": "lib/dawanda.js",
   "engines": {
-    "node": "0.4.11"
+    "node": ">0.4.0"
   },
   "dependencies": {},
   "devDependencies": {}
