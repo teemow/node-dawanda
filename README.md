@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/teemow/node-dawanda.png)](http://travis-ci.org/teemow/node-dawanda)
 # node-dawanda
 
 A simple API client for dawanda
